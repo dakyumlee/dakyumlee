@@ -1,16 +1,25 @@
-Hello, I’m Dakyum Lee, currently studying web development.
-I’m building small projects one by one, enjoying both the fun and challenges of coding.
+## ⚡ Current Status
+- 커밋 메시지 국룰: “fix” / “아오” / “ㅋㅋ”
 
-💻 I’ve created simple web apps using HTML, CSS, and JavaScript.
-📱 Lately, I’ve been exploring responsive design, PWAs, and Firebase.
-🎨 I’m also interested in UI/UX and enjoy designing and implementing things myself.
+---
 
-Right now, I’m focused on building my portfolio and growing with an emphasis on clean code and collaboration.
-I’m still learning, but I’m committed to steady progress and documenting my journey.
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+...뀨? 🐣 
 
-Thank you!🙌
+---
 
-<!---
-dakyumlee/dakyumlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📂 Projects
+[![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://2025portfolio-two.vercel.app/project.html)
+
+---
+
+## 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=dakyumlee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakyumlee&layout=compact&theme=radical)
+
