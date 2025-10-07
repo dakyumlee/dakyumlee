@@ -10,7 +10,7 @@
 ---
 
 ## 📂 Projects
-[![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://2025portfolio-two.vercel.app/project.html)
+[![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-black?style=for-the-badge&logo=github&logoColor=white)]([https://2025portfolio-two.vercel.app/project.html](https://oicrcutieportfolio-782532d38453.herokuapp.com))
 
 ---
 
